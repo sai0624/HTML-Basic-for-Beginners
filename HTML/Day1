@@ -1,0 +1,91 @@
+1.1) What is HTML?
+          HTML full form is Hyper Text Markup Language. It is used to create or build web pages.
+          HTML language in which most website are written.
+          HTML does not have strict Rules.
+          HTML code save in filename.html.
+       
+      Difference between Website and Webpage
+        Website: - A website is the collection of webpages.
+        Webpage: -A webpage is the collection of web elements.
+1.2) History of HTML?
+         HTML Inventor by Tim Berners-Lee in year 1993.
+         The latest version is HTML5
+1.3) What Are Tags and Attributes?
+         Tags and attributes are basis of HTML.
+         Tags: - It represents the root of an HTML documents.
+                 Example: - <tag> content</tag>
+         Attributes: - Its provide additional information about element.
+                 Example: - <tag attribute1=”value1”; attribute2=”value2”> content</tag>
+1.4) Structure of webpage: -
+         The html code always begins with <html> (angular brace) and ends with </html> (angular brace).
+         A html consists of two parts. Those are
+            1)Head part            2) Body part
+           1.) The head part is return within         <head>
+                                                         …
+                                                                            …
+
+                                                                            …
+
+                                                                       </head>
+
+           2.) The body part is return within      
+
+                                                                       <body>
+
+                                                                           …
+
+                                                                           …
+
+                                                                      </body>
+
+             In head tag we define title of the page.
+
+             In body tag we define the body of the page.
+
+1.     For heading tag:
+
+        Inside the body we can place different elements. The tags <h1> to <h6> are use for heading of different size.
+
+        H tags only use for one-line words
+
+                  <h1> is the biggest size tag.
+
+                  <h6> is the smallest size tag.
+
+                                  Example: <h1> Welcome to HTML</h1>
+
+                                  Same as all remaining tags h2,h3,h4,h5,h6 but the font size is different.
+
+2.     For image tag:
+
+        In this tag if we want to place the image inside the webpage we use this tag. And also we need to give the height and width.
+
+                       Example:
+
+                                      <imp src=” pathname” alt=”imagename” height=”300px” width=”300px”>
+
+                                                                    or
+
+                                      <imp src=” pathname” alt=”imagename” height=”100%” width=”100%>
+
+       User interest if user want px or %
+
+       We can put height=”100%” width=”100%” (pathname mean the location of the image in your system before giving pathname
+
+        you have to download the image in your system)
+
+3.      For paragraph:
+
+    Is tag is use for paragraph. In webpage we want to place the paragraph we use this tag.
+
+                         Example: <p> paragraph here </p>
+
+4.     For next line:
+
+    This tag is use for next line. In paragraph we need to start in new line we use this.  
+
+                         Example: <p> the dog is eating <br> the dog is running</p>      
+
+                                         Output: the dog is eating
+
+                                                       the dog is running
