@@ -22,70 +22,36 @@
             1)Head part            2) Body part
            1.) The head part is return within         <head>
                                                          …
-                                                                            …
-
-                                                                            …
-
-                                                                       </head>
-
-           2.) The body part is return within      
-
-                                                                       <body>
-
-                                                                           …
-
-                                                                           …
-
-                                                                      </body>
-
+                                                         …
+                                                         …
+                                                      </head>
+           2.) The body part is return within         <body>
+                                                        …
+                                                        …
+                                                     </body>
              In head tag we define title of the page.
-
              In body tag we define the body of the page.
-
-1.     For heading tag:
-
-        Inside the body we can place different elements. The tags <h1> to <h6> are use for heading of different size.
-
-        H tags only use for one-line words
-
+         1.) For heading tag:
+                  Inside the body we can place different elements. The tags <h1> to <h6> are use for heading of different size. 
+                  H tags only use for one-line words
                   <h1> is the biggest size tag.
-
                   <h6> is the smallest size tag.
-
                                   Example: <h1> Welcome to HTML</h1>
-
                                   Same as all remaining tags h2,h3,h4,h5,h6 but the font size is different.
-
-2.     For image tag:
-
-        In this tag if we want to place the image inside the webpage we use this tag. And also we need to give the height and width.
-
-                       Example:
-
-                                      <imp src=” pathname” alt=”imagename” height=”300px” width=”300px”>
-
+         2.) For image tag:
+                  In this tag if we want to place the image inside the webpage we use this tag. And also we need to give the height and width.
+                                  Example:
+                                        <imp src=” pathname” alt=”imagename” height=”300px” width=”300px”>
                                                                     or
-
-                                      <imp src=” pathname” alt=”imagename” height=”100%” width=”100%>
-
-       User interest if user want px or %
-
-       We can put height=”100%” width=”100%” (pathname mean the location of the image in your system before giving pathname
-
-        you have to download the image in your system)
-
-3.      For paragraph:
-
-    Is tag is use for paragraph. In webpage we want to place the paragraph we use this tag.
-
-                         Example: <p> paragraph here </p>
-
-4.     For next line:
-
-    This tag is use for next line. In paragraph we need to start in new line we use this.  
-
-                         Example: <p> the dog is eating <br> the dog is running</p>      
-
+                                        <imp src=” pathname” alt=”imagename” height=”100%” width=”100%>
+                                        User interest if user want px or %
+                 We can put height=”100%” width=”100%” (pathname mean the location of the image in your system before giving pathname 
+                 you have to download the image in your system)
+         3.) For paragraph:
+                 Is tag is use for paragraph. In webpage we want to place the paragraph we use this tag.
+                                 Example: <p> paragraph here </p>
+         4.) For next line:
+                 This tag is use for next line. In paragraph we need to start in new line we use this.  
+                                  Example: <p> the dog is eating <br> the dog is running</p>      
                                          Output: the dog is eating
-
-                                                       the dog is running
+                                                 the dog is running
