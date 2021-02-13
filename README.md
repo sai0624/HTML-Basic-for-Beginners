@@ -1,1 +1,12 @@
 # HTML-Basic-for-Beginners
+1 HTML for Beginners
+
+ 1.1 What is HTML?
+ 1.2 The History of HTML
+ 1.3 What are Tags and Attributes?
+ 1.4 Structure of webpage
+ 1.5 HTML Editors
+ 1.6 Creating Your First HTML Webpage
+ 1.7 Adding Content
+ 1.8 How To Close an HTML Document
+ 1.9 Troubleshooting
