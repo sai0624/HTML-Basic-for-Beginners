@@ -49,9 +49,28 @@
                  you have to download the image in your system)
          3.) For paragraph:
                  Is tag is use for paragraph. In webpage we want to place the paragraph we use this tag.
-                                 Example: <p> paragraph here </p>
+                 Better use "pre"
+                                 Example: <pre> paragraph here </pre>
          4.) For next line:
-                 This tag is use for next line. In paragraph we need to start in new line we use this.  
-                                  Example: <p> the dog is eating <br> the dog is running</p>      
-                                         Output: the dog is eating
-                                                 the dog is running
+                 This tag is use for next line. In paragraph we need to start in new line we use this.              
+                                  Example: <pre> the dog is eating <br> the dog is running</pre>      
+                                                 Output: the dog is eating
+                                                         the dog is running
+         5.) For anchor tag (a href tag):
+                The HTML code used to create a link to another page.
+                The HREF is an attribute of the anchor tag, which is also used to identify sections within a document
+                                  Example: <a href="website link"> click here to go the new website </a>
+         6.) For iframe tag:
+                The <iframe> tag specifies an inline frame. 
+                An inline frame is used to embed another document within the current HTML document.
+         There are so many tags in html. right now we learn the 6 tags
+1.5) HTML Editors:
+         Now its time to learn how to build our html wedsite.
+         Editors:-
+                1)Atom
+                2)Notepad
+                3)Notepad++
+                4)sublime
+                5)Brackets
+                There are so many editors for HTML. So user what do you feel better.
+                Search in Google-->html text editor list and download it. 
