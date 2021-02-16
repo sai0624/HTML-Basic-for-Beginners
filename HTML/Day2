@@ -1,8 +1,10 @@
+code:- For h's tags.
 note:- In head part we have to give the title name in present on the top of page in your browser page
        In body part we have to give the structure of the webpage. 
        In this code we learn the font size of HTML by using h's tags.
-
-code:- For h's tags.
+       
+       
+       
 <html>
     <head>
         <title> Welcome first code of HTML </title>
@@ -14,5 +16,18 @@ code:- For h's tags.
         <h4> This is the h4 tag font size</h4>
         <h5> This is the h5 tag font size</h5>
         <h6> This is the h6 tag font size</h6>
+    </body>
+</html>
+
+
+code:- For image tags
+
+
+<html>
+    <head>
+        <title> Image </title>
+    </head>
+    <body>
+        <img src="https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg" height="300" width="300">
     </body>
 </html>
