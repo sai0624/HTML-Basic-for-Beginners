@@ -21,13 +21,18 @@ note:- In head part we have to give the title name in present on the top of page
 
 
 code:- For image tags
-
+note:- In this tag we give height and width in px. But if user want in % inplace of px replace the %.
+       If you want to insert the image we need to download that image.
+       if you dont want to download image use
+       Google search-->image-->select the image-->right click on the image-->select the copy image address-->paste in the image tag. 
+       
+       
 
 <html>
     <head>
         <title> Image </title>
     </head>
     <body>
-        <img src="https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg" height="300" width="300">
+        <img src="https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg" alt="butterfly" height="300px" width="300px">
     </body>
 </html>
