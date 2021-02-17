@@ -9,8 +9,7 @@ Note:-
        
   
  code:- executed in your system...
- 
- 
+
  <html>
     <head>
         <title> Paragraph and Nextline</title>
@@ -21,3 +20,12 @@ Note:-
         HTML5 was first released in a public-facing form on 22 January 2008,[4] with a major update and "W3C Recommendation" status in October 2014.[2][5] <br>Its goals were to improve the language with support for the latest multimedia and other new features; to keep the language both easily readable by humans and consistently understood by computers and devices such as web browsers, parsers, etc.,<br> without XHTML's rigidity; and to remain backward-compatible with older software.<br> HTML5 is intended to subsume not only HTML 4 but also XHTML 1 and DOM Level 2 HTML.</per>
     </body>
  </html>
+
+
+
+Anchor tag:-
+Note:- 
+     For anchor tag we also called as a href tag.
+     The anchor tag is refer to which is used to link from one page to another page.
+     The 
+     
