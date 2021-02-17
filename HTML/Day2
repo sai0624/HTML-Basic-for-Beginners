@@ -1,5 +1,5 @@
 1.6 Create an HTML code with tags:-
-code:- For h's tags.
+code:- For h's tags.(execute in your system)
 note:- In head part we have to give the title name in present on the top of page in your browser page
        In body part we have to give the structure of the webpage. 
        In this code we learn the font size of HTML by using h's tags.
@@ -21,7 +21,7 @@ note:- In head part we have to give the title name in present on the top of page
 </html>
 
 
-code:- For image tags
+code:- For image tags(execute in your system)
 note:- In this tag we give height and width in px. But if user want in % inplace of px replace the %.
        If you want to insert the image we need to download that image.
        if you dont want to download image use
