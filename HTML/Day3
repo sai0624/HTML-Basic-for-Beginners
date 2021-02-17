@@ -8,7 +8,7 @@ Note:-
        For Nextline tag we use <br> it mean break and start in nextline.
        
   
- code:- executed in your system...
+ code:- For paragraph and nextline (executed in your system.)
 
  <html>
     <head>
@@ -27,5 +27,48 @@ Anchor tag:-
 Note:- 
      For anchor tag we also called as a href tag.
      The anchor tag is refer to which is used to link from one page to another page.
-     The 
+     Here i use the href is my github page account.
+     If you want to refer another file which save in your system.
+     In anchor tag if you want to refer the page in anonther tab use "_blank"   
+     In anchor tag if you want to refer the page in same tab use  "_self" 
+     Give the path name of your file in the <a href="pathname of your file" target="_blank"> click here to go the Anchor tag page </a>
+     If can use the anchor tag to refer the website link aslo Like this code. In this i refer the my github link.
+     You can use any website link to your understanding purpose only.
      
+     
+     
+Code:- For anchor tag (execute your system)
+
+<html>
+    <head>
+        <title> Anchor Tag </title>
+    </head>
+    <body>
+        <h2> This is Anchor Tag </h2>
+        <a href="https://github.com/sai0624" target="_blank"> click here to go the Anchor tag page </a>
+    </body>
+</html>
+
+iframe tag:-
+note:- 
+       iframe tag is also similar to anchor tag.
+       In src="url" i give onlu url. In that you can give the any website url link it will come.
+       But sometime is show that "refused to connect" do not worry about. Because
+       Most probably web site that you try to embed as an iframe doesn't allow to be embedded.
+       This is only for your understanding purpose only.
+       iframe tag is use specially in some concepts. I will tell when the concepts comes.
+       For now you just assume that iframe is similar to anchor tag.
+       
+       
+
+Code:- For iframe tag (execute your system)
+
+<html>
+    <head>
+        <title> iframe Tag </title>
+    </head>
+    <body>
+        <h2> This is iframe Tag </h2>
+        <iframe src="url" height="100%" width="100%"> click here to go the iframe tag page </iframe>
+    </body>
+</html>
