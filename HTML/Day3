@@ -1,0 +1,23 @@
+Paragraph and Next line tags:-
+     The both tag are written in one code only.
+Note:- 
+       For paragraph tag we <p> paragraph here </p>
+       We also use the <per> paragraph here </per> 
+       And better use <per> tag.
+       Here i take the paragraph is history of html refer by wikipedia.
+       For Nextline tag we use <br> it mean break and start in nextline.
+       
+  
+ code:- executed in your system...
+ 
+ 
+ <html>
+    <head>
+        <title> Paragraph and Nextline</title>
+    </head>
+    <body>
+        <h1> In this code we see the Paragraph and NextLine tag </h1>
+        <per> HTML5 is a markup language used for structuring and presenting content on the World Wide Web.<br>It is the fifth and last[3] major HTML version that is a World Wide Web Consortium (W3C) recommendation.<br>The current specification is known as the HTML Living Standard.<br> It is maintained by a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft), the Web Hypertext Application Technology Working Group (WHATWG).<br>
+        HTML5 was first released in a public-facing form on 22 January 2008,[4] with a major update and "W3C Recommendation" status in October 2014.[2][5] <br>Its goals were to improve the language with support for the latest multimedia and other new features; to keep the language both easily readable by humans and consistently understood by computers and devices such as web browsers, parsers, etc.,<br> without XHTML's rigidity; and to remain backward-compatible with older software.<br> HTML5 is intended to subsume not only HTML 4 but also XHTML 1 and DOM Level 2 HTML.</per>
+    </body>
+ </html>
